@@ -30,6 +30,30 @@ code examples can be found here - https://github.com/sergeiZh/CodeWars
 
 Unfortunately, has no any JS related experience. Hope that would change after the RS scholl course.
 Currently Most of the knowledge I got from youtube videos and free tutorials.  
+For now my favorite code example is kata from Code Wars (https://www.codewars.com/kata/find-the-odd-int/).
+My solution was
+```
+function findOdd(numberArr) {
+    const valueHolder = new Map();
+    numberArr.forEach(element => {
+        if(valueHolder.has(element)){
+            valueHolder.set(element, valueHolder.get(element)+1);
+        } else {
+            valueHolder.set(element, 1);
+        }
+    });
+    for(let [key, value] of valueHolder){
+        if(value %2 !== 0){
+            return key;
+        }
+    }
+    return 0;
+}
+```
+and the most rated was only 1 line long. I wish I would ever can code the same
+```
+const findOdd = (xs) => xs.reduce((a, b) => a ^ b);
+```
 
 ### IT soft skills
 1. Intermediate level of English
@@ -37,3 +61,8 @@ Currently Most of the knowledge I got from youtube videos and free tutorials.
 3. Quick learner
 4. Stress resistance
 5. Easy going
+
+### Plans for future
+* Finish RS school training
+* Join EPAM
+* Be a part of a team working on well-known company
