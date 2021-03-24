@@ -1,11 +1,39 @@
-# CV Juno Frontendov
+# Juno
+# Frontendov
+<img src="https://media.fromthegrapevine.com/assets/images/2017/1/jeff-bridges-dude.jpg.839x0_q71_crop-scale.jpg" width="200" height="200" alt="Juno Frontendov">
 
-1. Juno Frontendov
-2. gmail - edu.diff@gmail.com, gitHub - [code wars repository](https://github.com/sergeiZh/CodeWars)
-3. I trully want to learn javascript :innocent:. I had several attempts to do it but for some reasons stopped at the begining. JS is now a market leading
-programming language with presence on both front-end and back-end sides. It would be greate to be able to work with it.
-4. JavaScript - very novice, HTML - novice, CSS - novice, Git - novice
-5. gitHub - https://github.com/sergeiZh/CodeWars
-6. Unfortunately, has no any JS related experience. Hope that would change after the RS scholl course.
-7. Most of the knowledge I got from youtube videos and free tutorials.  
-8. can speak English a little
+# CV
+
+
+### Personal information
+I am 45 years old. Not young but not old man. Have been seen a lot but willing to see more. Have no children and pets. Love to play bowling with my friends.
+
+### Contact info
+gmail - edu.diff@gmail.com, gitHub - [code wars repository](https://github.com/sergeiZh/CodeWars)
+
+### Reason to attending RS school trainings
+I trully want to learn javascript :innocent:. 
+I love opportunities and freedom IT offers people. 
+JavaScript seems to me like a best choice to start career in IT. It's truly realize principle - easy to start hard to master.
+Moreover, JS is now a market leading
+programming language with presence on both front-end and back-end sides.
+I had several attempts to do learn JS but for some reasons stopped at the begining. 
+ Hope this try would be the last and successfull)
+ 
+###  IT hard skills
+1.  JavaScript - very novice
+2. HTML - novice
+3. CSS - novice
+4. Git - novice
+
+code examples can be found here - https://github.com/sergeiZh/CodeWars
+
+Unfortunately, has no any JS related experience. Hope that would change after the RS scholl course.
+Currently Most of the knowledge I got from youtube videos and free tutorials.  
+
+### IT soft skills
+1. Intermediate level of English
+2. Team player
+3. Quick learner
+4. Stress resistance
+5. Easy going
